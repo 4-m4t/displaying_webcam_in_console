@@ -1,0 +1,11 @@
+C:\Users\4-m4t\source\repos\displaying_webcam_in_console\displaying_webcam_in_console\bin\Debug\displaying_webcam_in_console.exe.config
+C:\Users\4-m4t\source\repos\displaying_webcam_in_console\displaying_webcam_in_console\bin\Debug\displaying_webcam_in_console.exe
+C:\Users\4-m4t\source\repos\displaying_webcam_in_console\displaying_webcam_in_console\bin\Debug\displaying_webcam_in_console.pdb
+C:\Users\4-m4t\source\repos\displaying_webcam_in_console\displaying_webcam_in_console\bin\Debug\AForge.dll
+C:\Users\4-m4t\source\repos\displaying_webcam_in_console\displaying_webcam_in_console\bin\Debug\AForge.Video.dll
+C:\Users\4-m4t\source\repos\displaying_webcam_in_console\displaying_webcam_in_console\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\4-m4t\source\repos\displaying_webcam_in_console\displaying_webcam_in_console\obj\Debug\displaying_webcam_in_console.csproj.AssemblyReference.cache
+C:\Users\4-m4t\source\repos\displaying_webcam_in_console\displaying_webcam_in_console\obj\Debug\displaying_webcam_in_console.csproj.CoreCompileInputs.cache
+C:\Users\4-m4t\source\repos\displaying_webcam_in_console\displaying_webcam_in_console\obj\Debug\displayi.6B7FE074.Up2Date
+C:\Users\4-m4t\source\repos\displaying_webcam_in_console\displaying_webcam_in_console\obj\Debug\displaying_webcam_in_console.exe
+C:\Users\4-m4t\source\repos\displaying_webcam_in_console\displaying_webcam_in_console\obj\Debug\displaying_webcam_in_console.pdb

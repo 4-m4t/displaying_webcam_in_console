@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "li9QlBpk9fruBKMwbertxz3EnvFlMFHVe0ZWm93oyKo2nxbs4OhDJXIud5L0O3LMhsEwYoVw9WYGJWQ/U4QbVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\4-m4t\\source\\repos\\displaying_webcam_in_console\\displaying_webcam_in_console\\displaying_webcam_in_console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\4-m4t\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
+    "C:\\Users\\4-m4t\\.nuget\\packages\\aforge.video\\2.2.5\\aforge.video.2.2.5.nupkg.sha512",
+    "C:\\Users\\4-m4t\\.nuget\\packages\\aforge.video.directshow\\2.2.5\\aforge.video.directshow.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}
